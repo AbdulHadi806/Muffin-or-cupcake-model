@@ -1,10 +1,10 @@
 # Determining Muffin or Cupcake with Support Vector Machine
 
-As of January 25, 2024, you have developed a basic machine learning model using Python, Pandas, and NumPy to classify whether a recipe corresponds to a muffin or a cupcake. The model utilizes the Support Vector Machine (SVM) algorithm for classification.
+As of January 25, 2024, I have developed a basic machine learning model using Python, Pandas, and NumPy to classify whether a recipe corresponds to a muffin or a cupcake. The model utilizes the Support Vector Machine (SVM) algorithm for classification.
 
 ## About the Model
 - **Algorithm**: Support Vector Machine (SVM)
-- **Development Date**: January 25, 2024
+- **Published Date**: January 25, 2024(Let's see how far I will reach in the next couple of months)
 
 ## How to predict
 You will need to add flour and sugar to predict the recipe.
@@ -14,7 +14,9 @@ You will need to add flour and sugar to predict the recipe.
 
 
 ## Your Background
-You are a web developer with experience in MERN stack and full-stack projects. You are currently transitioning your focus to emerging trends in technology and machine learning.
+I am a web developer with experience in MERN stack and full-stack projects. I am currently transitioning my focus to emerging trends in technology and machine learning.
 
 ## Good Luck!
-Wishing you the best of luck on your journey into the world of machine learning and future endeavors. May your efforts lead to fruitful outcomes and exciting discoveries!
+Wishing you the best of luck on your journey into the world of machine learning and future endeavors. May your efforts lead to fruitful outcomes and exciting discoveries! Wish me luck aswell.
+
+For any business related work, email me abdul.806@yahoo.com (I regularly check my mails)
