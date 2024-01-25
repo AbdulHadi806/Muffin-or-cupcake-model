@@ -7,13 +7,13 @@ As of January 25, 2024, I have developed a basic machine learning model using Py
 - **Published Date**: January 25, 2024(Let's see how far I will reach in the next couple of months)
 
 ## How to predict
-You will need to add flour and sugar to predict the recipe.
+User will need to add flour and sugar to predict the recipe.
 <div>
   <img width="494" alt="image" src="https://github.com/AbdulHadi806/Muffin-or-cupcake-model/assets/113926529/4a76e14b-24ee-45c1-95f9-92126fb608e3">
 </div>
 
 
-## Your Background
+## My Background
 I am a web developer with experience in MERN stack and full-stack projects. I am currently transitioning my focus to emerging trends in technology and machine learning.
 
 ## Good Luck!
