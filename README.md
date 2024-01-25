@@ -8,7 +8,9 @@ As of January 25, 2024, you have developed a basic machine learning model using 
 
 ## How to predict
 You will need to add flour and sugar to predict the value.
-<img width="494" alt="image" src="https://github.com/AbdulHadi806/Muffin-or-cupcake-model/assets/113926529/4a76e14b-24ee-45c1-95f9-92126fb608e3">
+<div>
+  <img width="494" alt="image" src="https://github.com/AbdulHadi806/Muffin-or-cupcake-model/assets/113926529/4a76e14b-24ee-45c1-95f9-92126fb608e3">
+</div>
 
 
 ## Your Background
